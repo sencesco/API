@@ -1,0 +1,134 @@
+{
+  'search_id': '47ff2eb1-9fd5-f9eb-3c34-105991629332',
+  'currency': 'THB',
+  'fx_rate': 37.791966,
+  'data': [
+    {
+      'id': '07560f644cc74cd4c76f3795_0|07560f644cc74cd4c76f3795_1',
+      'flyFrom': 'BKK',
+      'flyTo': 'LHR',
+      'cityFrom': 'Bangkok',
+      'cityCodeFrom': 'BKK',
+      'cityTo': 'London',
+      'cityCodeTo': 'LON',
+      'countryFrom': {
+        'code': 'TH',
+        'name': 'Thailand'
+      },
+      'countryTo': {
+        'code': 'GB',
+        'name': 'United Kingdom'
+      },
+      'local_departure': '2023-10-25T12:50:00.000Z',
+      'utc_departure': '2023-10-25T05:50:00.000Z',
+      'local_arrival': '2023-10-25T19:25:00.000Z',
+      'utc_arrival': '2023-10-25T18:25:00.000Z',
+      'nightsInDest': 13,
+      'quality': 1162.232318,
+      'distance': 9587.95,
+      'duration': {
+        'departure': 45300,
+        'return': 41100,
+        'total': 86400
+      },
+      'price': 35760,
+      'conversion': {
+        'EUR': 946.232858,
+        'THB': 35760
+      },
+      'fare': {
+        'adults': 35760,
+        'children': 35760,
+        'infants': 35760
+      },
+      'bags_price': {
+        '1': 0
+      },
+      'baglimit': {
+        'hand_height': 36,
+        'hand_length': 56,
+        'hand_weight': 7,
+        'hand_width': 23,
+        'hold_dimensions_sum': 158,
+        'hold_height': 52,
+        'hold_length': 78,
+        'hold_weight': 20,
+        'hold_width': 28
+      },
+      'availability': {
+        'seats': None
+      },
+      'airlines': [
+        'BR'
+      ],
+      'route': [
+        {
+          'id': '07560f644cc74cd4c76f3795_0',
+          'combination_id': '07560f644cc74cd4c76f3795',
+          'flyFrom': 'BKK',
+          'flyTo': 'LHR',
+          'cityFrom': 'Bangkok',
+          'cityCodeFrom': 'BKK',
+          'cityTo': 'London',
+          'cityCodeTo': 'LON',
+          'local_departure': '2023-10-25T12:50:00.000Z',
+          'utc_departure': '2023-10-25T05:50:00.000Z',
+          'local_arrival': '2023-10-25T19:25:00.000Z',
+          'utc_arrival': '2023-10-25T18:25:00.000Z',
+          'airline': 'BR',
+          'flight_no': 67,
+          'operating_carrier': 'BR',
+          'operating_flight_no': '67',
+          'fare_basis': 'VTH',
+          'fare_category': 'M',
+          'fare_classes': 'V',
+          'fare_family': '',
+          'return': 0,
+          'bags_recheck_required': False,
+          'vi_connection': False,
+          'guarantee': False,
+          'equipment': None,
+          'vehicle_type': 'aircraft'
+        },
+        {
+          'id': '07560f644cc74cd4c76f3795_1',
+          'combination_id': '07560f644cc74cd4c76f3795',
+          'flyFrom': 'LHR',
+          'flyTo': 'BKK',
+          'cityFrom': 'London',
+          'cityCodeFrom': 'LON',
+          'cityTo': 'Bangkok',
+          'cityCodeTo': 'BKK',
+          'local_departure': '2023-11-07T21:20:00.000Z',
+          'utc_departure': '2023-11-07T21:20:00.000Z',
+          'local_arrival': '2023-11-08T15:45:00.000Z',
+          'utc_arrival': '2023-11-08T08:45:00.000Z',
+          'airline': 'BR',
+          'flight_no': 68,
+          'operating_carrier': 'BR',
+          'operating_flight_no': '68',
+          'fare_basis': 'VTH',
+          'fare_category': 'M',
+          'fare_classes': 'V',
+          'fare_family': '',
+          'return': 1,
+          'bags_recheck_required': False,
+          'vi_connection': False,
+          'guarantee': False,
+          'equipment': None,
+          'vehicle_type': 'aircraft'
+        }
+      ],
+      'booking_token': 'GSAWt7WwDD-N4y6V9D-MD-b79Zg5yLnnKZ-jKlvsk6ztGzGDHwq9si0H_COZRe8yIczuXYk1SnmCXrt721nDqc5Rnl7BEzRaEVhwlVHoVoT7IShP7Ooe-FMUvP7UjwIs71uAIYEYO7EpmVyv4ct2MRzPwrIe6G0a3p1Jb87-83OBxOswS7_Q_hjKMaDMY6nphyfBaxds5gES1q_8z9GGxc5ZgrrIZDGP-zSdr51JukDUJPMI99fSKphcPPeHj95ToLzG-S5YLjQIhGHcErGy3kcc6hvnfhwzsf14seb3HmhDx7VyGQvfQk_mmeqSK4jvxqIo6yulBs-v2kywVN5lW36q9IEhTfqUnFdiahQfDvk7XCugEJDdfap1xg6vVux_hULpAHwlHbEAC3kQI0q-TsYx5LQQwNfpEDiNiATsbEI3TCErkF3P6jtURwZwBJ4Sx6q9DRTEPpNf9JXCsf2ZFWkT_9IqPQUcbZ67rYM1R4BM=',
+      'deep_link': 'https://www.kiwi.com/deep?affilid=sencescoflightsearch&currency=THB&flightsId=07560f644cc74cd4c76f3795_0%7C07560f644cc74cd4c76f3795_1&from=BKK&lang=en&passengers=1&to=LHR&booking_token=GSAWt7WwDD-N4y6V9D-MD-b79Zg5yLnnKZ-jKlvsk6ztGzGDHwq9si0H_COZRe8yIczuXYk1SnmCXrt721nDqc5Rnl7BEzRaEVhwlVHoVoT7IShP7Ooe-FMUvP7UjwIs71uAIYEYO7EpmVyv4ct2MRzPwrIe6G0a3p1Jb87-83OBxOswS7_Q_hjKMaDMY6nphyfBaxds5gES1q_8z9GGxc5ZgrrIZDGP-zSdr51JukDUJPMI99fSKphcPPeHj95ToLzG-S5YLjQIhGHcErGy3kcc6hvnfhwzsf14seb3HmhDx7VyGQvfQk_mmeqSK4jvxqIo6yulBs-v2kywVN5lW36q9IEhTfqUnFdiahQfDvk7XCugEJDdfap1xg6vVux_hULpAHwlHbEAC3kQI0q-TsYx5LQQwNfpEDiNiATsbEI3TCErkF3P6jtURwZwBJ4Sx6q9DRTEPpNf9JXCsf2ZFWkT_9IqPQUcbZ67rYM1R4BM=',
+      'facilitated_booking_available': True,
+      'pnr_count': 1,
+      'has_airport_change': False,
+      'technical_stops': 0,
+      'throw_away_ticketing': False,
+      'hidden_city_ticketing': False,
+      'virtual_interlining': False
+    }
+  ],
+  '_results': 1
+}From: BangkokTo: London>>Thelowestpriceis35760THB

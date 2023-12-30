@@ -1,0 +1,76 @@
+{
+  'prices': [
+    {
+      'departCity': 'Bangkok',
+      'iataCodeDepart': 'BKK',
+      'destinationCity': 'London',
+      'iataCodeDestination': 'LON',
+      'lowestPrice': 54,
+      'id': 2
+    },
+    {
+      'departCity': 'Bangkok',
+      'iataCodeDepart': 'BKK',
+      'destinationCity': 'Berlin',
+      'iataCodeDestination': 'BER',
+      'lowestPrice': 42,
+      'id': 3
+    },
+    {
+      'departCity': 'Berlin',
+      'iataCodeDepart': 'BER',
+      'destinationCity': 'Tokyo',
+      'iataCodeDestination': 'TYO',
+      'lowestPrice': 485,
+      'id': 4
+    },
+    {
+      'departCity': 'Berlin',
+      'iataCodeDepart': 'BER',
+      'destinationCity': 'Sydney',
+      'iataCodeDestination': 'SYD',
+      'lowestPrice': 551,
+      'id': 5
+    },
+    {
+      'departCity': 'Berlin',
+      'iataCodeDepart': 'BER',
+      'destinationCity': 'Istanbul',
+      'iataCodeDestination': 'IST',
+      'lowestPrice': 95,
+      'id': 6
+    },
+    {
+      'departCity': 'Beijing',
+      'iataCodeDepart': 'BJS',
+      'destinationCity': 'Kuala Lumpur',
+      'iataCodeDestination': 'KUL',
+      'lowestPrice': 414,
+      'id': 7
+    },
+    {
+      'departCity': 'Beijing',
+      'iataCodeDepart': 'BJS',
+      'destinationCity': 'New York',
+      'iataCodeDestination': 'NYC',
+      'lowestPrice': 240,
+      'id': 8
+    },
+    {
+      'departCity': 'Beijing',
+      'iataCodeDepart': 'BJS',
+      'destinationCity': 'San Francisco',
+      'iataCodeDestination': 'SFO',
+      'lowestPrice': 260,
+      'id': 9
+    },
+    {
+      'departCity': 'Bangkok',
+      'iataCodeDepart': 'BKK',
+      'destinationCity': 'Cape Town',
+      'iataCodeDestination': 'CPT',
+      'lowestPrice': 378,
+      'id': 10
+    }
+  ]
+}
